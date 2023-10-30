@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74eef0136de175e4c9898f59370c5510, type: 3}
+  m_Name: AllyCharacterConfiguration
+  m_EditorClassIdentifier: 
+  HpWidget: {fileID: 2238900094587200569, guid: ad73e723a8b7e479aa17468702bfd512,
+    type: 3}
+  StatusWidget: {fileID: 253467307405554335, guid: e07966b9006f04efd8295c68fb2885fe,
+    type: 3}
+  IntentWidget: {fileID: 253467307405554335, guid: 4366d0920df9a4a40a3cf367ad5e1aaa,
+    type: 3}

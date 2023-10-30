@@ -1,0 +1,134 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.9f1c1 (ef65345766d1) revision 15689012'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'zh' Physical Memory: 7986 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.9f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity projects/Card
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+3003
+Successfully changed project path to: D:/Unity projects/Card
+D:/Unity projects/Card
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1c1 (ef65345766d1)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.9f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity projects/Card/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 with Max-Q Design (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6231
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.9f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.9f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.9f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002727 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.918 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 67.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3643 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.1 MB.
+System memory in use after: 156.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 4104.
+Total: 2.680600 ms (FindLiveObjects: 0.307300 ms CreateObjectMapping: 0.166400 ms MarkObjects: 2.161900 ms  DeleteObjects: 0.043800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SinglePlayerCCGKit/CardTemplate/Inspiration.prefab
+  artifactKey: Guid(148a1a52c5583b94f880986e5a9db172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/CardTemplate/Inspiration.prefab using Guid(148a1a52c5583b94f880986e5a9db172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae94ae324dccf3d3190f81db74069a0') in 0.300767 seconds
+  Import took 0.307439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/SinglePlayerCCGKit/CardTemplate/Fireball.prefab
+  artifactKey: Guid(d4550646673e9634d87bf2e82892818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/CardTemplate/Fireball.prefab using Guid(d4550646673e9634d87bf2e82892818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafff77da3717ea878afb035d7509f09') in 0.025459 seconds
+  Import took 0.032011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990ff548c56c793ccc14bf0e2882f0a2') in 0.005656 seconds
+  Import took 0.012459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/SinglePlayerCCGKit/CardTemplate/Heal.prefab
+  artifactKey: Guid(7c9951192598a614a9c52c8f856be4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/CardTemplate/Heal.prefab using Guid(7c9951192598a614a9c52c8f856be4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4b2c8d92b4837d18bd2ce49d8c5197') in 0.021574 seconds
+  Import took 0.027653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.444753 seconds.
+  path: Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBrainSystem.cs
+  artifactKey: Guid(11bf5a1ad95bdcd49b30e0c6d2e93b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBrainSystem.cs using Guid(11bf5a1ad95bdcd49b30e0c6d2e93b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e246b0382a74b0b7bc07af2206e4d77') in 0.016268 seconds
+  Import took 0.023115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBrainSystem.cs
+  artifactKey: Guid(11bf5a1ad95bdcd49b30e0c6d2e93b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBrainSystem.cs using Guid(11bf5a1ad95bdcd49b30e0c6d2e93b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e246b0382a74b0b7bc07af2206e4d77') in 0.002387 seconds
+  Import took 0.008714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.449387 seconds.
+  path: Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBaseSystem.cs
+  artifactKey: Guid(6ef28a2c8d0548e44a05d37e580a83ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBaseSystem.cs using Guid(6ef28a2c8d0548e44a05d37e580a83ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990a05604aff070f9a4a9b4f6148a94d') in 0.005617 seconds
+  Import took 0.010733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000661 seconds.
+  path: Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBaseSystem.cs
+  artifactKey: Guid(6ef28a2c8d0548e44a05d37e580a83ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinglePlayerCCGKit/Scripts/Systems/AllyBaseSystem.cs using Guid(6ef28a2c8d0548e44a05d37e580a83ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990a05604aff070f9a4a9b4f6148a94d') in 0.002226 seconds
+  Import took 0.008257 seconds .
+

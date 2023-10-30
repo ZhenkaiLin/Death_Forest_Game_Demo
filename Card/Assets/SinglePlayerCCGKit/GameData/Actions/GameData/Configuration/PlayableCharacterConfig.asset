@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d80943e3958a46e0a759b1321d761d9, type: 3}
+  m_Name: PlayableCharacterConfig
+  m_EditorClassIdentifier: 
+  Hp: {fileID: 11400000, guid: 724b112239a224f27bcbc9dae12fd9c2, type: 2}
+  Power: {fileID: 11400000, guid: 3ea70ffe089aa3549904f22046792510, type: 2}
+  Magic: {fileID: 11400000, guid: 03a8ea16c49f63f40b3e4d932a258970, type: 2}
+  Armor: {fileID: 11400000, guid: 48be993d654bf48418aa5339f4ba2f58, type: 2}
+  MagicResistance: {fileID: 11400000, guid: 951a9685a6430854eb254c995c655d8a, type: 2}
+  Level: {fileID: 11400000, guid: a0939c185966fc142a7cf43c0c842427, type: 2}
+  Mana: {fileID: 11400000, guid: 505810a6babac44eeb589a2e2696ca99, type: 2}
+  Status: {fileID: 11400000, guid: 4f4e2738ee96f4c249fa99a5f2eaa00c, type: 2}
+  HpWidget: {fileID: 4405901252859549196, guid: 450b1a86240da45a1b2669f99a3ee781,
+    type: 3}
+  StatusWidget: {fileID: 1630382039248954355, guid: f201e5fadebd1460c83ac71b25223a2f,
+    type: 3}
+  AttributeWidget: {fileID: 2929601389373884896, guid: 476c94e278529234a93bc5ab4f16312c,
+    type: 3}

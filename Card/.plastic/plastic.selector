@@ -1,0 +1,4 @@
+repository "Card@ssl://starry_silence@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/137199805" 
+     

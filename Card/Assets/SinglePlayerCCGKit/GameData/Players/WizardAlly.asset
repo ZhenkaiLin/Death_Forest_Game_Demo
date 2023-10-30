@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446254ca804896b4b80199b20966c8f4, type: 3}
+  m_Name: WizardAlly
+  m_EditorClassIdentifier: 
+  Name: Wizard
+  Prefab: {fileID: 2832429604840509992, guid: 53030f4b933644115a80ce9e8b2396a1, type: 3}
+  Actions: []
+  hp: 70
+  power: 5
+  magic: 5
+  armor: 2
+  magicResistance: 2
+  Patterns:
+  - {fileID: 11400000, guid: 572a2e86f956598408162cc4bcdac780, type: 2}

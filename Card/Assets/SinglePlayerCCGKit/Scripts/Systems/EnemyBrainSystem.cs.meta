@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d36ba406f31d4a28abdc16bf9c27465
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effectResolutionSystem: {instanceID: 0}
+  - intentChangeEvent: {fileID: 11400000, guid: ec6a36f80cc1048ad90b84787d083c7c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

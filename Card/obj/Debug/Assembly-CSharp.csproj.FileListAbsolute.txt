@@ -1,0 +1,2 @@
+C:\Users\10542\Desktop\GameDesign\unity\Card\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\10542\Desktop\GameDesign\unity\Card\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
